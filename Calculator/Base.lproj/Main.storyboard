@@ -217,8 +217,8 @@
                                     </stackView>
                                 </subviews>
                             </stackView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Label" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FKJ-VN-iHg">
-                                <rect key="frame" x="187" y="95" width="233" height="54"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FKJ-VN-iHg">
+                                <rect key="frame" x="184" y="97" width="233" height="50"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="233" id="B5M-AG-wx3"/>
                                 </constraints>
@@ -347,7 +347,7 @@
                     </subviews>
                 </stackView>
             </objects>
-            <point key="canvasLocation" x="739" y="674"/>
+            <point key="canvasLocation" x="900" y="695"/>
         </scene>
     </scenes>
     <resources>
